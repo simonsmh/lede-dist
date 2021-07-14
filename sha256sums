@@ -1,0 +1,6 @@
+b2a61e357fb948fb777f66b4038e6798ed72e939ddc159a486bbfc4e0a877b14 *openwrt-21.02.0-rc3-ramips-mt7621-netgear_r6220-squashfs-factory.img
+a589cec588b87651eeb3e3db67f2fa8d8fedf84693b434591edea5aa94cd6a98 *openwrt-21.02.0-rc3-ramips-mt7621-netgear_r6220-squashfs-kernel.bin
+116cb258c5c816b9fc5071a7a6900f3cd96c4051fd4093adf0d3dbba54dc9c4c *openwrt-21.02.0-rc3-ramips-mt7621-netgear_r6220-squashfs-rootfs.bin
+6425284039362e7f0f600d0e86c3f39e9fbb5ca19f3d310cee9a0d747ec7308d *openwrt-21.02.0-rc3-ramips-mt7621-netgear_r6220-squashfs-sysupgrade.bin
+6643cba96ec9295fa08d22c0eb3d6609ef196c73dc6f89efde526a545cf2b603 *openwrt-21.02.0-rc3-ramips-mt7621-netgear_r6220.manifest
+77b61c96e0c8233d9e18b4d343a80f266f8e4ba4eea790ad33207ce3064d0043 *profiles.json
