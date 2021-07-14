@@ -1,0 +1,4 @@
+49cc8318b4dc5f347aaf0562bd44f73bbced914efff312019655f0f730598b1f *openwrt-21.02.0-rc3-rockchip-armv8-friendlyarm_nanopi-r2s-ext4-sysupgrade.img.gz
+b841c87e65d71e47723e9d7ed32b5cffd2ac53afea4aba7d8ec80e370cee1ab4 *openwrt-21.02.0-rc3-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz
+0c7abfeadf27726c28d0f8b76cb180cfce2f746797aeb84a7825fc1bb3d26417 *openwrt-21.02.0-rc3-rockchip-armv8-friendlyarm_nanopi-r2s.manifest
+09683c871368c29f2b07a90b01425564a708da7e76740187204029dfd0ff4235 *profiles.json
